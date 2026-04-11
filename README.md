@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Hi, I'm Bruno 👋</h3>
+<h3 align="center">Hi, I'm slash 👋</h3>
 
 ###
 
