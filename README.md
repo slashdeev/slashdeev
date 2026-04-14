@@ -21,7 +21,11 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Linux_mascot_tux.png" height="40" alt="linux logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://static.wikia.nocookie.net/roblox/images/a/af/Luau.png/revision/latest?cb=20230210233439" height="40" alt="luau logo"  />
   <img width="12" />
