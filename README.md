@@ -25,6 +25,8 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40" alt="c logo"  />
   <img width="12" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/go-programming-language-icon.png" height="40" alt="go logo"  />
+  <img width="12" />
 </div>
 
 <h2 align="left"></h2>
